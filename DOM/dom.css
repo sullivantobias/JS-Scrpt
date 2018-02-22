@@ -1,0 +1,11 @@
+.red {
+    color: red;
+}
+
+.pink {
+    color: pink;
+}
+
+p {
+    transition: color 1s;
+}
